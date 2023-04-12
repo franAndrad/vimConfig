@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/killzombymen/Documents/arduino/ejemplo'
+let g:netrw_dirhist_8='/home/killzombymen/Documents/arduino'
+let g:netrw_dirhist_7='/home/killzombymen/Documents/arduino/ejemplo'
+let g:netrw_dirhist_6='/home/killzombymen/.arduino15/packages/arduino/tools/avrdude/6.3.0-arduino17/etc'
+let g:netrw_dirhist_5='/home/killzombymen/Documents/info2/src'
+let g:netrw_dirhist_4='/home/killzombymen/Documents/info2'
+let g:netrw_dirhist_3='/home/killzombymen/Documents'
+let g:netrw_dirhist_2='/home/killzombymen/Documents/cursoFullstack'
+let g:netrw_dirhist_1='/home/killzombymen/Documents'
